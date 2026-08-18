@@ -189,7 +189,7 @@
             "last_commit": "2026-01-23T15:01:47Z",
             "owner": "matter-labs",
             "repo": "awesome-zero-knowledge-proofs",
-            "stars": 5804
+            "stars": 5802
           }
         },
         {
@@ -203,7 +203,7 @@
             "last_commit": "2024-10-15T06:58:06Z",
             "owner": "ventali",
             "repo": "awesome-zk",
-            "stars": 1585
+            "stars": 1584
           }
         }
       ],
@@ -211,7 +211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:50:14.898Z",
+    "last_updated": "2026-08-18T14:56:54.209Z",
     "original_repository": "Mikerah/awesome-privacy-on-blockchains",
     "original_repository_sha": "deca73639db714c878b78257fac3ce7a28560741",
     "enhanced_repository": "enhansome/enhansome-privacy-on-blockchains",
