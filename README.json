@@ -1,182 +1,181 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Aztec Protocol",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 159177009,
+                "language": "JavaScript",
+                "last_commit": "2022-12-13T18:36:53Z",
+                "owner": "AztecProtocol",
+                "repo": "aztec-v1",
+                "stars": 631
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Confidential Transactions"
+        }
+      ],
       "title": "Layer 2"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Aztec Protocol",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DarkFi",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 288211592,
+                "language": "Rust",
+                "last_commit": "2026-07-27T18:31:01Z",
+                "owner": "darkrenaissance",
+                "repo": "darkfi",
+                "stars": 1365
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZkVM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 162481536,
+                "language": "Rust",
+                "last_commit": "2021-04-02T23:02:46Z",
+                "owner": "stellar",
+                "repo": "slingshot",
+                "stars": 422
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "One-time, zero sum ring signature",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47163384,
+                "language": "Go",
+                "last_commit": "2016-01-19T20:26:57Z",
+                "owner": "cfromknecht",
+                "repo": "OZcoin",
+                "stars": 6
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2022-12-13T18:36:53Z",
-            "owner": "AztecProtocol",
-            "repo": "aztec-v1",
-            "stars": 631
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nightfall",
-          "description": null,
-          "children": []
+          "node_type": "group",
+          "title": "Blockchains with private smart contracts"
         }
       ],
-      "title": "Confidential Transactions"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Alternate Blockchain designs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "DarkFi",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Privacy Pools",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 609420583,
+                "language": "JavaScript",
+                "last_commit": "2023-09-05T01:20:26Z",
+                "owner": "ameensol",
+                "repo": "privacy-pools",
+                "stars": 301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Miximus",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130919656,
+                "language": "C++",
+                "last_commit": "2018-11-09T09:24:13Z",
+                "owner": "barryWhiteHat",
+                "repo": "miximus",
+                "stars": 231
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MixEth Repo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152994928,
+                "language": "TeX",
+                "last_commit": "2022-12-09T05:27:15Z",
+                "owner": "seresistvanandras",
+                "repo": "MixEth",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Laundromat",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73074656,
+                "language": "JavaScript",
+                "last_commit": "2017-03-24T10:25:37Z",
+                "owner": "blackyblack",
+                "repo": "laundromat",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RingToken",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52201863,
+                "language": "C",
+                "last_commit": "2016-07-10T21:46:21Z",
+                "owner": "sontol",
+                "repo": "RingToken",
+                "stars": 5
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-27T18:31:01Z",
-            "owner": "darkrenaissance",
-            "repo": "darkfi",
-            "stars": 1365
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ZkVM",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2021-04-02T23:02:46Z",
-            "owner": "stellar",
-            "repo": "slingshot",
-            "stars": 422
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "One-time, zero sum ring signature",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2016-01-19T20:26:57Z",
-            "owner": "cfromknecht",
-            "repo": "OZcoin",
-            "stars": 6
-          }
+          "node_type": "group",
+          "title": "Proof of Concepts"
         }
       ],
-      "title": "Blockchains with private smart contracts"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Instantiations"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Privacy Pools",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-09-05T01:20:26Z",
-            "owner": "ameensol",
-            "repo": "privacy-pools",
-            "stars": 301
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Miximus",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2018-11-09T09:24:13Z",
-            "owner": "barryWhiteHat",
-            "repo": "miximus",
-            "stars": 231
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MixEth Repo",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TeX",
-            "last_commit": "2022-12-09T05:27:15Z",
-            "owner": "seresistvanandras",
-            "repo": "MixEth",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Laundromat",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-03-24T10:25:37Z",
-            "owner": "blackyblack",
-            "repo": "laundromat",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RingToken",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2016-07-10T21:46:21Z",
-            "owner": "sontol",
-            "repo": "RingToken",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Proof of Concepts"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Privacy coins"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Dash"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -185,6 +184,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156949882,
             "language": null,
             "last_commit": "2026-01-23T15:01:47Z",
             "owner": "matter-labs",
@@ -199,6 +199,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 430532919,
             "language": null,
             "last_commit": "2024-10-15T06:58:06Z",
             "owner": "ventali",
@@ -211,8 +212,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:56:54.209Z",
+    "last_updated": "2026-08-19T12:46:26.394Z",
     "original_repository": "Mikerah/awesome-privacy-on-blockchains",
+    "original_repository_id": 197427230,
     "original_repository_sha": "deca73639db714c878b78257fac3ce7a28560741",
     "enhanced_repository": "enhansome/enhansome-privacy-on-blockchains",
     "enhanced_repository_description": null,
