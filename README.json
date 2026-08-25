@@ -60,7 +60,7 @@
                 "last_commit": "2021-04-02T23:02:46Z",
                 "owner": "stellar",
                 "repo": "slingshot",
-                "stars": 422
+                "stars": 423
               }
             },
             {
@@ -262,7 +262,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:24:00.368Z",
+    "last_updated": "2026-08-25T15:10:01.540Z",
     "original_repository": "Mikerah/awesome-privacy-on-blockchains",
     "original_repository_id": 197427230,
     "original_repository_sha": "deca73639db714c878b78257fac3ce7a28560741",
