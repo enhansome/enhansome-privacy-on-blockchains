@@ -210,10 +210,10 @@
                 "archived": false,
                 "id": 47279130,
                 "language": "TeX",
-                "last_commit": "2026-08-23T22:51:04Z",
+                "last_commit": "2026-08-24T15:22:48Z",
                 "owner": "zcash",
                 "repo": "zips",
-                "stars": 304
+                "stars": 305
               }
             }
           ],
@@ -254,7 +254,7 @@
             "last_commit": "2024-10-15T06:58:06Z",
             "owner": "ventali",
             "repo": "awesome-zk",
-            "stars": 1583
+            "stars": 1582
           }
         }
       ],
@@ -262,7 +262,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:05:24.773Z",
+    "last_updated": "2026-08-25T06:24:00.368Z",
     "original_repository": "Mikerah/awesome-privacy-on-blockchains",
     "original_repository_id": 197427230,
     "original_repository_sha": "deca73639db714c878b78257fac3ce7a28560741",
