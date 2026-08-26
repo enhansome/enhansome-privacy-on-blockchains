@@ -210,7 +210,7 @@
                 "archived": false,
                 "id": 47279130,
                 "language": "TeX",
-                "last_commit": "2026-08-24T15:22:48Z",
+                "last_commit": "2026-08-25T21:26:01Z",
                 "owner": "zcash",
                 "repo": "zips",
                 "stars": 305
@@ -239,7 +239,7 @@
             "last_commit": "2026-01-23T15:01:47Z",
             "owner": "matter-labs",
             "repo": "awesome-zero-knowledge-proofs",
-            "stars": 5804
+            "stars": 5805
           }
         },
         {
@@ -262,7 +262,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:10:01.540Z",
+    "last_updated": "2026-08-26T15:55:36.685Z",
     "original_repository": "Mikerah/awesome-privacy-on-blockchains",
     "original_repository_id": 197427230,
     "original_repository_sha": "deca73639db714c878b78257fac3ce7a28560741",
