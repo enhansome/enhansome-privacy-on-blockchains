@@ -42,7 +42,7 @@
                 "archived": false,
                 "id": 288211592,
                 "language": "Rust",
-                "last_commit": "2026-07-27T18:31:01Z",
+                "last_commit": "2026-08-27T08:37:09Z",
                 "owner": "darkrenaissance",
                 "repo": "darkfi",
                 "stars": 1366
@@ -239,7 +239,7 @@
             "last_commit": "2026-01-23T15:01:47Z",
             "owner": "matter-labs",
             "repo": "awesome-zero-knowledge-proofs",
-            "stars": 5805
+            "stars": 5806
           }
         },
         {
@@ -262,9 +262,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T15:55:36.685Z",
-    "original_repository": "Mikerah/awesome-privacy-on-blockchains",
-    "original_repository_id": 197427230,
+    "last_updated": "2026-08-27T12:00:04.887Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 197427230,
+      "language": null,
+      "last_commit": "2025-11-04T17:37:06Z",
+      "owner": "Mikerah",
+      "repo": "awesome-privacy-on-blockchains",
+      "stars": 288
+    },
     "original_repository_sha": "deca73639db714c878b78257fac3ce7a28560741",
     "enhanced_repository": "enhansome/enhansome-privacy-on-blockchains",
     "enhanced_repository_description": null,
