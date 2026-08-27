@@ -42,7 +42,7 @@
                 "archived": false,
                 "id": 288211592,
                 "language": "Rust",
-                "last_commit": "2026-08-27T08:37:09Z",
+                "last_commit": "2026-08-27T20:41:23Z",
                 "owner": "darkrenaissance",
                 "repo": "darkfi",
                 "stars": 1366
@@ -239,7 +239,7 @@
             "last_commit": "2026-01-23T15:01:47Z",
             "owner": "matter-labs",
             "repo": "awesome-zero-knowledge-proofs",
-            "stars": 5806
+            "stars": 5809
           }
         },
         {
@@ -262,7 +262,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:00:04.887Z",
+    "last_updated": "2026-08-27T23:49:38.191Z",
     "original_repository_info": {
       "archived": false,
       "id": 197427230,
