@@ -18,7 +18,8 @@
                 "owner": "AztecProtocol",
                 "repo": "aztec-v1",
                 "stars": 631
-              }
+              },
+              "first_seen": "2026-08-28T23:35:07.628Z"
             }
           ],
           "description": null,
@@ -42,11 +43,12 @@
                 "archived": false,
                 "id": 288211592,
                 "language": "Rust",
-                "last_commit": "2026-08-27T20:41:23Z",
+                "last_commit": "2026-08-28T21:21:09Z",
                 "owner": "darkrenaissance",
                 "repo": "darkfi",
                 "stars": 1366
-              }
+              },
+              "first_seen": "2026-08-28T23:35:07.628Z"
             },
             {
               "node_type": "item",
@@ -61,7 +63,8 @@
                 "owner": "stellar",
                 "repo": "slingshot",
                 "stars": 423
-              }
+              },
+              "first_seen": "2026-08-28T23:35:07.628Z"
             },
             {
               "node_type": "item",
@@ -76,7 +79,8 @@
                 "owner": "cfromknecht",
                 "repo": "OZcoin",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:35:07.628Z"
             }
           ],
           "description": null,
@@ -104,7 +108,8 @@
                 "owner": "ameensol",
                 "repo": "privacy-pools",
                 "stars": 301
-              }
+              },
+              "first_seen": "2026-08-28T23:35:07.628Z"
             },
             {
               "node_type": "item",
@@ -119,7 +124,8 @@
                 "owner": "barryWhiteHat",
                 "repo": "miximus",
                 "stars": 231
-              }
+              },
+              "first_seen": "2026-08-28T23:35:07.628Z"
             },
             {
               "node_type": "item",
@@ -134,7 +140,8 @@
                 "owner": "seresistvanandras",
                 "repo": "MixEth",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T23:35:07.628Z"
             },
             {
               "node_type": "item",
@@ -149,7 +156,8 @@
                 "owner": "blackyblack",
                 "repo": "laundromat",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T23:35:07.628Z"
             },
             {
               "node_type": "item",
@@ -164,7 +172,8 @@
                 "owner": "sontol",
                 "repo": "RingToken",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:35:07.628Z"
             }
           ],
           "description": null,
@@ -192,7 +201,8 @@
                 "owner": "monerobook",
                 "repo": "monerobook",
                 "stars": 304
-              }
+              },
+              "first_seen": "2026-08-28T23:35:07.628Z"
             }
           ],
           "description": null,
@@ -214,7 +224,8 @@
                 "owner": "zcash",
                 "repo": "zips",
                 "stars": 305
-              }
+              },
+              "first_seen": "2026-08-28T23:35:07.628Z"
             }
           ],
           "description": null,
@@ -239,8 +250,9 @@
             "last_commit": "2026-01-23T15:01:47Z",
             "owner": "matter-labs",
             "repo": "awesome-zero-knowledge-proofs",
-            "stars": 5809
-          }
+            "stars": 5819
+          },
+          "first_seen": "2026-08-28T23:35:07.628Z"
         },
         {
           "node_type": "item",
@@ -255,14 +267,15 @@
             "owner": "ventali",
             "repo": "awesome-zk",
             "stars": 1582
-          }
+          },
+          "first_seen": "2026-08-28T23:35:07.628Z"
         }
       ],
       "title": "Related Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:49:38.191Z",
+    "last_updated": "2026-08-28T23:35:07.628Z",
     "original_repository_info": {
       "archived": false,
       "id": 197427230,
