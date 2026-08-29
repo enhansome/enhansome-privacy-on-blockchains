@@ -12,12 +12,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Public repository for the AZTEC V1 protocol. For the latest zkRollup release see here https://github.com/AztecProtocol/aztec-2-bug-bounty",
+                "homepage": null,
                 "id": 159177009,
                 "language": "JavaScript",
+                "license": "LGPL-3.0",
                 "last_commit": "2022-12-13T18:36:53Z",
+                "open_issues": 72,
                 "owner": "AztecProtocol",
                 "repo": "aztec-v1",
-                "stars": 631
+                "stars": 631,
+                "topics": [
+                  "aztec",
+                  "blockchain",
+                  "confidentiality",
+                  "ethereum",
+                  "ethereum-blockchain",
+                  "privacy",
+                  "protocol",
+                  "zero-knowledge-proofs"
+                ]
               },
               "first_seen": "2026-08-28T23:35:07.628Z"
             }
@@ -41,12 +55,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Anonymous. Uncensored. Sovereign.",
+                "homepage": "https://dark.fi",
                 "id": 288211592,
                 "language": "Rust",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T21:21:09Z",
+                "open_issues": 21,
                 "owner": "darkrenaissance",
                 "repo": "darkfi",
-                "stars": 1366
+                "stars": 1367,
+                "topics": [
+                  "crypto",
+                  "cryptocurrency",
+                  "halo2",
+                  "rust",
+                  "zero-knowledge",
+                  "zk",
+                  "zk-snarks",
+                  "zkvm"
+                ]
               },
               "first_seen": "2026-08-28T23:35:07.628Z"
             },
@@ -57,12 +85,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": " A new blockchain architecture under active development, with a strong focus on scalability, privacy and safety",
+                "homepage": null,
                 "id": 162481536,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2021-04-02T23:02:46Z",
+                "open_issues": 54,
                 "owner": "stellar",
                 "repo": "slingshot",
-                "stars": 423
+                "stars": 423,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:07.628Z"
             },
@@ -73,12 +106,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Anonymous + Confidential Cryptocurrency",
+                "homepage": null,
                 "id": 47163384,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2016-01-19T20:26:57Z",
+                "open_issues": 0,
                 "owner": "cfromknecht",
                 "repo": "OZcoin",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:07.628Z"
             }
@@ -102,12 +140,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Privacy 2.0 for Ethereum",
+                "homepage": "https://www.privacypools.com",
                 "id": 609420583,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-09-05T01:20:26Z",
+                "open_issues": 4,
                 "owner": "ameensol",
                 "repo": "privacy-pools",
-                "stars": 301
+                "stars": 301,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:07.628Z"
             },
@@ -118,12 +161,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A proof of concept trustless ethereum mixer",
+                "homepage": null,
                 "id": 130919656,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2018-11-09T09:24:13Z",
+                "open_issues": 20,
                 "owner": "barryWhiteHat",
                 "repo": "miximus",
-                "stars": 231
+                "stars": 232,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:07.628Z"
             },
@@ -134,12 +182,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MixEth: efficient, trustless coin mixing service for Ethereum",
+                "homepage": null,
                 "id": 152994928,
                 "language": "TeX",
+                "license": "GPL-3.0",
                 "last_commit": "2022-12-09T05:27:15Z",
+                "open_issues": 11,
                 "owner": "seresistvanandras",
                 "repo": "MixEth",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "blockchain",
+                  "coinshuffle",
+                  "counterfactual",
+                  "cryptocurrency",
+                  "ethereum",
+                  "privacy-enhancing-technologies",
+                  "privacy-preserving",
+                  "state-channel",
+                  "state-channels"
+                ]
               },
               "first_seen": "2026-08-28T23:35:07.628Z"
             },
@@ -150,12 +213,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ethereum mixing service",
+                "homepage": null,
                 "id": 73074656,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2017-03-24T10:25:37Z",
+                "open_issues": 0,
                 "owner": "blackyblack",
                 "repo": "laundromat",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:07.628Z"
             },
@@ -166,12 +234,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ethereum Contract for Decentralized Mixer based on RingSignature",
+                "homepage": null,
                 "id": 52201863,
                 "language": "C",
+                "license": null,
                 "last_commit": "2016-07-10T21:46:21Z",
+                "open_issues": 4,
                 "owner": "sontol",
                 "repo": "RingToken",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:07.628Z"
             }
@@ -195,12 +268,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mastering Monero Book",
+                "homepage": "https://masteringmonero.com",
                 "id": 109745165,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-06T19:05:20Z",
+                "open_issues": 31,
                 "owner": "monerobook",
                 "repo": "monerobook",
-                "stars": 304
+                "stars": 304,
+                "topics": [
+                  "blockchain",
+                  "book",
+                  "cryptocurrencies",
+                  "monero"
+                ]
               },
               "first_seen": "2026-08-28T23:35:07.628Z"
             }
@@ -218,12 +301,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zcash Improvement Proposals",
+                "homepage": "https://zips.z.cash",
                 "id": 47279130,
                 "language": "TeX",
+                "license": "MIT",
                 "last_commit": "2026-08-25T21:26:01Z",
+                "open_issues": 327,
                 "owner": "zcash",
                 "repo": "zips",
-                "stars": 305
+                "stars": 305,
+                "topics": [
+                  "cryptocurrency",
+                  "cryptography",
+                  "specifications",
+                  "zcash"
+                ]
               },
               "first_seen": "2026-08-28T23:35:07.628Z"
             }
@@ -245,12 +338,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
+            "homepage": null,
             "id": 156949882,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-01-23T15:01:47Z",
+            "open_issues": 16,
             "owner": "matter-labs",
             "repo": "awesome-zero-knowledge-proofs",
-            "stars": 5819
+            "stars": 5820,
+            "topics": [
+              "explaining-snarks",
+              "knowledge-proofs",
+              "snark",
+              "team-crypto",
+              "zk-snarks"
+            ]
           },
           "first_seen": "2026-08-28T23:35:07.628Z"
         },
@@ -261,12 +365,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome ZK resources, libraries, tools and more.  ",
+            "homepage": null,
             "id": 430532919,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-15T06:58:06Z",
+            "open_issues": 8,
             "owner": "ventali",
             "repo": "awesome-zk",
-            "stars": 1582
+            "stars": 1582,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:07.628Z"
         }
@@ -275,15 +384,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:35:07.628Z",
+    "last_updated": "2026-08-29T04:53:20.306Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of privacy on blockchains resources",
+      "homepage": null,
       "id": 197427230,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-11-04T17:37:06Z",
+      "open_issues": 6,
       "owner": "Mikerah",
       "repo": "awesome-privacy-on-blockchains",
-      "stars": 288
+      "stars": 288,
+      "topics": [
+        "anonymity",
+        "awesome-list",
+        "bitcoin",
+        "blockchain",
+        "confidential",
+        "cryptocurrency",
+        "ethereum",
+        "grin",
+        "monero",
+        "p2p",
+        "privacy",
+        "zcash"
+      ]
     },
     "original_repository_sha": "deca73639db714c878b78257fac3ce7a28560741",
     "enhanced_repository": "enhansome/enhansome-privacy-on-blockchains",
