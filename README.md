@@ -70,7 +70,7 @@ This is a combination of papers and articles that cover various aspects of block
 
 ### Blockchains with private smart contracts
 
-* [DarkFi](https://github.com/darkrenaissance/darkfi) ⭐ 1,367 | 🐛 22 | 🌐 Rust | 📅 2026-08-29
+* [DarkFi](https://github.com/darkrenaissance/darkfi) ⭐ 1,367 | 🐛 22 | 🌐 Rust | 📅 2026-08-30
 * [ZkVM](https://github.com/stellar/slingshot/blob/main/zkvm/README.md) ⚠️ Archived
 * [One-time, zero sum ring signature](https://github.com/cfromknecht/OZcoin/blob/master/whitepaper/zerosum.pdf) ⭐ 6 | 🐛 0 | 🌐 Go | 📅 2016-01-19
 * [Zexe](https://eprint.iacr.org/2018/962.pdf)
@@ -205,11 +205,11 @@ This is a combination of papers and articles that cover various aspects of block
 
 ## Related Lists
 
-* [Awesome Zero-Knowledge Proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) ⭐ 5,821 | 🐛 16 | 📅 2026-01-23
-* [Awesome ZK](https://github.com/ventali/awesome-zk) ⭐ 1,582 | 🐛 8 | 📅 2024-10-15
+* [Awesome Zero-Knowledge Proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) ⭐ 5,832 | 🐛 16 | 📅 2026-01-23
+* [Awesome ZK](https://github.com/ventali/awesome-zk) ⭐ 1,583 | 🐛 8 | 📅 2024-10-15
 * [Zero-Knowledge Started Pack](https://ethresear.ch/t/zero-knowledge-proofs-starter-pack/4519/2)
 * [Zero Knowledge papers](zkp.science)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
