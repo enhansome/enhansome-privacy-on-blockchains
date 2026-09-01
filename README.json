@@ -60,11 +60,11 @@
                 "id": 288211592,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-31T15:42:38Z",
+                "last_commit": "2026-09-01T14:08:05Z",
                 "open_issues": 22,
                 "owner": "darkrenaissance",
                 "repo": "darkfi",
-                "stars": 1367,
+                "stars": 1368,
                 "topics": [
                   "crypto",
                   "cryptocurrency",
@@ -149,7 +149,7 @@
                 "open_issues": 4,
                 "owner": "ameensol",
                 "repo": "privacy-pools",
-                "stars": 301,
+                "stars": 300,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:07.628Z"
@@ -347,7 +347,7 @@
             "open_issues": 16,
             "owner": "matter-labs",
             "repo": "awesome-zero-knowledge-proofs",
-            "stars": 5831,
+            "stars": 5832,
             "topics": [
               "explaining-snarks",
               "knowledge-proofs",
@@ -374,7 +374,7 @@
             "open_issues": 8,
             "owner": "ventali",
             "repo": "awesome-zk",
-            "stars": 1583,
+            "stars": 1584,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:07.628Z"
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T20:12:06.173Z",
+    "last_updated": "2026-09-01T17:52:36.265Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of privacy on blockchains resources",
@@ -396,7 +396,7 @@
       "open_issues": 6,
       "owner": "Mikerah",
       "repo": "awesome-privacy-on-blockchains",
-      "stars": 288,
+      "stars": 289,
       "topics": [
         "anonymity",
         "awesome-list",

@@ -70,7 +70,7 @@ This is a combination of papers and articles that cover various aspects of block
 
 ### Blockchains with private smart contracts
 
-* [DarkFi](https://github.com/darkrenaissance/darkfi) ⭐ 1,367 | 🐛 22 | 🌐 Rust | 📅 2026-08-31
+* [DarkFi](https://github.com/darkrenaissance/darkfi) ⭐ 1,368 | 🐛 22 | 🌐 Rust | 📅 2026-09-01
 * [ZkVM](https://github.com/stellar/slingshot/blob/main/zkvm/README.md) ⚠️ Archived
 * [One-time, zero sum ring signature](https://github.com/cfromknecht/OZcoin/blob/master/whitepaper/zerosum.pdf) ⭐ 6 | 🐛 0 | 🌐 Go | 📅 2016-01-19
 * [Zexe](https://eprint.iacr.org/2018/962.pdf)
@@ -120,7 +120,7 @@ This is a combination of papers and articles that cover various aspects of block
 
 ### Proof of Concepts
 
-* [Privacy Pools](https://github.com/ameensol/privacy-pools) ⭐ 301 | 🐛 4 | 🌐 JavaScript | 📅 2023-09-05
+* [Privacy Pools](https://github.com/ameensol/privacy-pools) ⭐ 300 | 🐛 4 | 🌐 JavaScript | 📅 2023-09-05
 * [Miximus](https://github.com/barryWhiteHat/miximus) ⭐ 232 | 🐛 20 | 🌐 C++ | 📅 2018-11-09
 * [MixEth Repo](https://github.com/seresistvanandras/MixEth) ⭐ 53 | 🐛 11 | 🌐 TeX | 📅 2022-12-09
 * [Laundromat](https://github.com/blackyblack/laundromat) ⭐ 42 | 🐛 0 | 🌐 JavaScript | 📅 2017-03-24
@@ -205,11 +205,11 @@ This is a combination of papers and articles that cover various aspects of block
 
 ## Related Lists
 
-* [Awesome Zero-Knowledge Proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) ⭐ 5,831 | 🐛 16 | 📅 2026-01-23
-* [Awesome ZK](https://github.com/ventali/awesome-zk) ⭐ 1,583 | 🐛 8 | 📅 2024-10-15
+* [Awesome Zero-Knowledge Proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) ⭐ 5,832 | 🐛 16 | 📅 2026-01-23
+* [Awesome ZK](https://github.com/ventali/awesome-zk) ⭐ 1,584 | 🐛 8 | 📅 2024-10-15
 * [Zero-Knowledge Started Pack](https://ethresear.ch/t/zero-knowledge-proofs-starter-pack/4519/2)
 * [Zero Knowledge papers](zkp.science)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
