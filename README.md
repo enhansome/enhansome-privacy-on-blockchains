@@ -161,7 +161,7 @@ This is a combination of papers and articles that cover various aspects of block
 
 ### [Monero](https://www.getmonero.org/)
 
-* [Mastering Monero](https://github.com/monerobook/monerobook) ⭐ 303 | 🐛 31 | 📅 2024-04-06
+* [Mastering Monero](https://github.com/monerobook/monerobook) ⭐ 304 | 🐛 31 | 📅 2024-04-06
 * [Zero to Monero](https://ww.getmonero.org/library/Zero-to-Monero-1-0-0.pdf)
 
 ### [Zcash](https://z.cash/)
@@ -212,4 +212,4 @@ This is a combination of papers and articles that cover various aspects of block
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
