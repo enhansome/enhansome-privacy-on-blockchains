@@ -120,7 +120,7 @@ This is a combination of papers and articles that cover various aspects of block
 
 ### Proof of Concepts
 
-* [Privacy Pools](https://github.com/ameensol/privacy-pools) ⭐ 300 | 🐛 4 | 🌐 JavaScript | 📅 2023-09-05
+* [Privacy Pools](https://github.com/ameensol/privacy-pools) ⭐ 299 | 🐛 4 | 🌐 JavaScript | 📅 2023-09-05
 * [Miximus](https://github.com/barryWhiteHat/miximus) ⭐ 231 | 🐛 20 | 🌐 C++ | 📅 2018-11-09
 * [MixEth Repo](https://github.com/seresistvanandras/MixEth) ⭐ 53 | 🐛 11 | 🌐 TeX | 📅 2022-12-09
 * [Laundromat](https://github.com/blackyblack/laundromat) ⭐ 42 | 🐛 0 | 🌐 JavaScript | 📅 2017-03-24
@@ -166,7 +166,7 @@ This is a combination of papers and articles that cover various aspects of block
 
 ### [Zcash](https://z.cash/)
 
-* [Zcash Protocol Specification](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 306 | 🐛 323 | 🌐 TeX | 📅 2026-09-08
+* [Zcash Protocol Specification](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 306 | 🐛 324 | 🌐 TeX | 📅 2026-09-14
 
 ### [Dash](https://www.dash.org/)
 
@@ -212,4 +212,4 @@ This is a combination of papers and articles that cover various aspects of block
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._

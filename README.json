@@ -149,7 +149,7 @@
                 "open_issues": 4,
                 "owner": "ameensol",
                 "repo": "privacy-pools",
-                "stars": 300,
+                "stars": 299,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:07.628Z"
@@ -306,8 +306,8 @@
                 "id": 47279130,
                 "language": "TeX",
                 "license": "MIT",
-                "last_commit": "2026-09-08T23:31:41Z",
-                "open_issues": 323,
+                "last_commit": "2026-09-14T15:22:53Z",
+                "open_issues": 324,
                 "owner": "zcash",
                 "repo": "zips",
                 "stars": 306,
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T17:27:30.322Z",
+    "last_updated": "2026-09-14T19:28:51.338Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of privacy on blockchains resources",
