@@ -103,7 +103,7 @@ This is a combination of papers and articles that cover various aspects of block
 ## Privacy Preserving Light Client Designs
 
 * [ZLiTE](https://eprint.iacr.org/2018/1024.pdf)
-* [Neutrino](https://github.com/lightninglabs/neutrino) ⭐ 977 | 🐛 70 | 🌐 Go | 📅 2026-09-11
+* [Neutrino](https://github.com/lightninglabs/neutrino) ⭐ 977 | 🐛 71 | 🌐 Go | 📅 2026-09-11
 * [BiTE](https://www.usenix.org/system/files/sec19fall_matetic_prepub.pdf)
 
 ## Economics of Privacy Blockchains
@@ -161,12 +161,12 @@ This is a combination of papers and articles that cover various aspects of block
 
 ### [Monero](https://www.getmonero.org/)
 
-* [Mastering Monero](https://github.com/monerobook/monerobook) ⭐ 304 | 🐛 31 | 📅 2024-04-06
+* [Mastering Monero](https://github.com/monerobook/monerobook) ⭐ 303 | 🐛 31 | 📅 2024-04-06
 * [Zero to Monero](https://ww.getmonero.org/library/Zero-to-Monero-1-0-0.pdf)
 
 ### [Zcash](https://z.cash/)
 
-* [Zcash Protocol Specification](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 305 | 🐛 327 | 🌐 TeX | 📅 2026-09-15
+* [Zcash Protocol Specification](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 306 | 🐛 327 | 🌐 TeX | 📅 2026-09-15
 
 ### [Dash](https://www.dash.org/)
 
@@ -205,11 +205,11 @@ This is a combination of papers and articles that cover various aspects of block
 
 ## Related Lists
 
-* [Awesome Zero-Knowledge Proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) ⭐ 5,841 | 🐛 16 | 📅 2026-01-23
+* [Awesome Zero-Knowledge Proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) ⭐ 5,842 | 🐛 16 | 📅 2026-01-23
 * [Awesome ZK](https://github.com/ventali/awesome-zk) ⭐ 1,582 | 🐛 9 | 📅 2024-10-15
 * [Zero-Knowledge Started Pack](https://ethresear.ch/t/zero-knowledge-proofs-starter-pack/4519/2)
 * [Zero Knowledge papers](zkp.science)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
