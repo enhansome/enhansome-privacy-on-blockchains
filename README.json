@@ -60,7 +60,7 @@
                 "id": 288211592,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-10T15:30:40Z",
+                "last_commit": "2026-09-18T16:42:25Z",
                 "open_issues": 22,
                 "owner": "darkrenaissance",
                 "repo": "darkfi",
@@ -306,7 +306,7 @@
                 "id": 47279130,
                 "language": "TeX",
                 "license": "MIT",
-                "last_commit": "2026-09-15T22:17:52Z",
+                "last_commit": "2026-09-17T23:04:47Z",
                 "open_issues": 327,
                 "owner": "zcash",
                 "repo": "zips",
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T18:20:56.298Z",
+    "last_updated": "2026-09-18T17:44:22.834Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of privacy on blockchains resources",
