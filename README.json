@@ -64,7 +64,7 @@
                 "open_issues": 22,
                 "owner": "darkrenaissance",
                 "repo": "darkfi",
-                "stars": 1371,
+                "stars": 1372,
                 "topics": [
                   "crypto",
                   "cryptocurrency",
@@ -149,7 +149,7 @@
                 "open_issues": 4,
                 "owner": "ameensol",
                 "repo": "privacy-pools",
-                "stars": 299,
+                "stars": 298,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:07.628Z"
@@ -306,8 +306,8 @@
                 "id": 47279130,
                 "language": "TeX",
                 "license": "MIT",
-                "last_commit": "2026-09-21T11:41:14Z",
-                "open_issues": 329,
+                "last_commit": "2026-09-22T22:07:40Z",
+                "open_issues": 325,
                 "owner": "zcash",
                 "repo": "zips",
                 "stars": 306,
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T18:09:25.332Z",
+    "last_updated": "2026-09-23T18:26:44.312Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of privacy on blockchains resources",
