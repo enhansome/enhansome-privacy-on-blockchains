@@ -306,8 +306,8 @@
                 "id": 47279130,
                 "language": "TeX",
                 "license": "MIT",
-                "last_commit": "2026-09-29T18:49:28Z",
-                "open_issues": 331,
+                "last_commit": "2026-09-30T12:58:03Z",
+                "open_issues": 326,
                 "owner": "zcash",
                 "repo": "zips",
                 "stars": 307,
@@ -374,7 +374,7 @@
             "open_issues": 9,
             "owner": "ventali",
             "repo": "awesome-zk",
-            "stars": 1591,
+            "stars": 1594,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:07.628Z"
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T19:29:02.476Z",
+    "last_updated": "2026-09-30T19:29:17.252Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of privacy on blockchains resources",
