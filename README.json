@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Aztec Protocol",
-              "description": null,
+              "description": "AztecProtocol/aztec-v1",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -51,7 +51,7 @@
             {
               "node_type": "item",
               "title": "DarkFi",
-              "description": null,
+              "description": "darkrenaissance/darkfi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -64,7 +64,7 @@
                 "open_issues": 22,
                 "owner": "darkrenaissance",
                 "repo": "darkfi",
-                "stars": 1372,
+                "stars": 1373,
                 "topics": [
                   "crypto",
                   "cryptocurrency",
@@ -81,7 +81,7 @@
             {
               "node_type": "item",
               "title": "ZkVM",
-              "description": null,
+              "description": "stellar/slingshot",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -102,7 +102,7 @@
             {
               "node_type": "item",
               "title": "One-time, zero sum ring signature",
-              "description": null,
+              "description": "cfromknecht/OZcoin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -136,7 +136,7 @@
             {
               "node_type": "item",
               "title": "Privacy Pools",
-              "description": null,
+              "description": "ameensol/privacy-pools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -157,7 +157,7 @@
             {
               "node_type": "item",
               "title": "Miximus",
-              "description": null,
+              "description": "barryWhiteHat/miximus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -178,7 +178,7 @@
             {
               "node_type": "item",
               "title": "MixEth Repo",
-              "description": null,
+              "description": "seresistvanandras/MixEth",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -209,7 +209,7 @@
             {
               "node_type": "item",
               "title": "Laundromat",
-              "description": null,
+              "description": "blackyblack/laundromat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -230,7 +230,7 @@
             {
               "node_type": "item",
               "title": "RingToken",
-              "description": null,
+              "description": "sontol/RingToken",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -264,7 +264,7 @@
             {
               "node_type": "item",
               "title": "Mastering Monero",
-              "description": null,
+              "description": "monerobook/monerobook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -297,7 +297,7 @@
             {
               "node_type": "item",
               "title": "Zcash Protocol Specification",
-              "description": null,
+              "description": "zcash/zips",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -310,7 +310,7 @@
                 "open_issues": 328,
                 "owner": "zcash",
                 "repo": "zips",
-                "stars": 307,
+                "stars": 308,
                 "topics": [
                   "cryptocurrency",
                   "cryptography",
@@ -334,7 +334,7 @@
         {
           "node_type": "item",
           "title": "Awesome Zero-Knowledge Proofs",
-          "description": null,
+          "description": "matter-labs/awesome-zero-knowledge-proofs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -361,7 +361,7 @@
         {
           "node_type": "item",
           "title": "Awesome ZK",
-          "description": null,
+          "description": "ventali/awesome-zk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:24:14.106Z",
+    "last_updated": "2026-10-03T05:01:43.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of privacy on blockchains resources",
