@@ -60,7 +60,7 @@
                 "id": 288211592,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-02T15:29:36Z",
+                "last_commit": "2026-10-03T11:16:19Z",
                 "open_issues": 22,
                 "owner": "darkrenaissance",
                 "repo": "darkfi",
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:01:43.203Z",
+    "last_updated": "2026-10-03T18:01:39.627Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of privacy on blockchains resources",
