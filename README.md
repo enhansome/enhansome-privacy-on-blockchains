@@ -70,7 +70,7 @@ This is a combination of papers and articles that cover various aspects of block
 
 ### Blockchains with private smart contracts
 
-* [DarkFi](https://github.com/darkrenaissance/darkfi) ⭐ 1,373 | 🐛 22 | 🌐 Rust | 📅 2026-10-03
+* [DarkFi](https://github.com/darkrenaissance/darkfi) ⭐ 1,372 | 🐛 22 | 🌐 Rust | 📅 2026-10-05
 * [ZkVM](https://github.com/stellar/slingshot/blob/main/zkvm/README.md) ⚠️ Archived
 * [One-time, zero sum ring signature](https://github.com/cfromknecht/OZcoin/blob/master/whitepaper/zerosum.pdf) ⭐ 6 | 🐛 0 | 🌐 Go | 📅 2016-01-19
 * [Zexe](https://eprint.iacr.org/2018/962.pdf)
@@ -103,7 +103,7 @@ This is a combination of papers and articles that cover various aspects of block
 ## Privacy Preserving Light Client Designs
 
 * [ZLiTE](https://eprint.iacr.org/2018/1024.pdf)
-* [Neutrino](https://github.com/lightninglabs/neutrino) ⭐ 979 | 🐛 73 | 🌐 Go | 📅 2026-09-24
+* [Neutrino](https://github.com/lightninglabs/neutrino) ⭐ 978 | 🐛 73 | 🌐 Go | 📅 2026-09-24
 * [BiTE](https://www.usenix.org/system/files/sec19fall_matetic_prepub.pdf)
 
 ## Economics of Privacy Blockchains
@@ -212,4 +212,4 @@ This is a combination of papers and articles that cover various aspects of block
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
