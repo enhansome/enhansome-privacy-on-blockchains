@@ -344,7 +344,7 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-01-23T15:01:47Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "matter-labs",
             "repo": "awesome-zero-knowledge-proofs",
             "stars": 5843,
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:22:15.112Z",
+    "last_updated": "2026-10-06T19:36:14.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of privacy on blockchains resources",
