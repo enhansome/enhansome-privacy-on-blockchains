@@ -70,7 +70,7 @@ This is a combination of papers and articles that cover various aspects of block
 
 ### Blockchains with private smart contracts
 
-* [DarkFi](https://github.com/darkrenaissance/darkfi) ⭐ 1,372 | 🐛 21 | 🌐 Rust | 📅 2026-10-09
+* [DarkFi](https://github.com/darkrenaissance/darkfi) ⭐ 1,373 | 🐛 21 | 🌐 Rust | 📅 2026-10-10
 * [ZkVM](https://github.com/stellar/slingshot/blob/main/zkvm/README.md) ⚠️ Archived
 * [One-time, zero sum ring signature](https://github.com/cfromknecht/OZcoin/blob/master/whitepaper/zerosum.pdf) ⭐ 6 | 🐛 0 | 🌐 Go | 📅 2016-01-19
 * [Zexe](https://eprint.iacr.org/2018/962.pdf)
@@ -212,4 +212,4 @@ This is a combination of papers and articles that cover various aspects of block
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
