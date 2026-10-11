@@ -60,7 +60,7 @@
                 "id": 288211592,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-10T16:29:31Z",
+                "last_commit": "2026-10-11T12:06:58Z",
                 "open_issues": 21,
                 "owner": "darkrenaissance",
                 "repo": "darkfi",
@@ -347,7 +347,7 @@
             "open_issues": 18,
             "owner": "matter-labs",
             "repo": "awesome-zero-knowledge-proofs",
-            "stars": 5844,
+            "stars": 5843,
             "topics": [
               "explaining-snarks",
               "knowledge-proofs",
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T18:42:35.287Z",
+    "last_updated": "2026-10-11T19:00:14.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of privacy on blockchains resources",
