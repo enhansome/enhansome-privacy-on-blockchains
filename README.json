@@ -306,8 +306,8 @@
                 "id": 47279130,
                 "language": "TeX",
                 "license": "MIT",
-                "last_commit": "2026-10-20T00:06:33Z",
-                "open_issues": 341,
+                "last_commit": "2026-10-21T18:01:16Z",
+                "open_issues": 339,
                 "owner": "zcash",
                 "repo": "zips",
                 "stars": 309,
@@ -337,17 +337,17 @@
           "description": "matter-labs/awesome-zero-knowledge-proofs",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
             "homepage": null,
             "id": 156949882,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-01-23T15:01:47Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-21T16:33:02Z",
+            "open_issues": 0,
             "owner": "matter-labs",
             "repo": "awesome-zero-knowledge-proofs",
-            "stars": 5847,
+            "stars": 5848,
             "topics": [
               "explaining-snarks",
               "knowledge-proofs",
@@ -374,7 +374,7 @@
             "open_issues": 9,
             "owner": "ventali",
             "repo": "awesome-zk",
-            "stars": 1596,
+            "stars": 1597,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:07.628Z"
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T18:32:01.606Z",
+    "last_updated": "2026-10-21T18:45:22.025Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of privacy on blockchains resources",
