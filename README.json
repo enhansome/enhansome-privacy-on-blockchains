@@ -277,7 +277,7 @@
                 "open_issues": 31,
                 "owner": "monerobook",
                 "repo": "monerobook",
-                "stars": 304,
+                "stars": 305,
                 "topics": [
                   "blockchain",
                   "book",
@@ -306,8 +306,8 @@
                 "id": 47279130,
                 "language": "TeX",
                 "license": "MIT",
-                "last_commit": "2026-10-21T18:01:16Z",
-                "open_issues": 339,
+                "last_commit": "2026-10-21T20:23:50Z",
+                "open_issues": 338,
                 "owner": "zcash",
                 "repo": "zips",
                 "stars": 309,
@@ -374,7 +374,7 @@
             "open_issues": 9,
             "owner": "ventali",
             "repo": "awesome-zk",
-            "stars": 1597,
+            "stars": 1596,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:07.628Z"
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T18:45:22.025Z",
+    "last_updated": "2026-10-22T18:38:32.363Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of privacy on blockchains resources",

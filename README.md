@@ -161,12 +161,12 @@ This is a combination of papers and articles that cover various aspects of block
 
 ### [Monero](https://www.getmonero.org/)
 
-* [Mastering Monero](https://github.com/monerobook/monerobook) ⭐ 304 | 🐛 31 | 📅 2024-04-06
+* [Mastering Monero](https://github.com/monerobook/monerobook) ⭐ 305 | 🐛 31 | 📅 2024-04-06
 * [Zero to Monero](https://ww.getmonero.org/library/Zero-to-Monero-1-0-0.pdf)
 
 ### [Zcash](https://z.cash/)
 
-* [Zcash Protocol Specification](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 309 | 🐛 339 | 🌐 TeX | 📅 2026-10-21
+* [Zcash Protocol Specification](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 309 | 🐛 338 | 🌐 TeX | 📅 2026-10-21
 
 ### [Dash](https://www.dash.org/)
 
@@ -206,10 +206,10 @@ This is a combination of papers and articles that cover various aspects of block
 ## Related Lists
 
 * [Awesome Zero-Knowledge Proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) ⚠️ Archived
-* [Awesome ZK](https://github.com/ventali/awesome-zk) ⭐ 1,597 | 🐛 9 | 📅 2024-10-15
+* [Awesome ZK](https://github.com/ventali/awesome-zk) ⭐ 1,596 | 🐛 9 | 📅 2024-10-15
 * [Zero-Knowledge Started Pack](https://ethresear.ch/t/zero-knowledge-proofs-starter-pack/4519/2)
 * [Zero Knowledge papers](zkp.science)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
