@@ -277,7 +277,7 @@
                 "open_issues": 31,
                 "owner": "monerobook",
                 "repo": "monerobook",
-                "stars": 305,
+                "stars": 306,
                 "topics": [
                   "blockchain",
                   "book",
@@ -347,7 +347,7 @@
             "open_issues": 0,
             "owner": "matter-labs",
             "repo": "awesome-zero-knowledge-proofs",
-            "stars": 5848,
+            "stars": 5849,
             "topics": [
               "explaining-snarks",
               "knowledge-proofs",
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:29:49.800Z",
+    "last_updated": "2026-10-25T17:42:14.059Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of privacy on blockchains resources",
