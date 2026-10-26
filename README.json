@@ -61,10 +61,10 @@
                 "language": "Rust",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-19T07:48:35Z",
-                "open_issues": 21,
+                "open_issues": 54,
                 "owner": "darkrenaissance",
                 "repo": "darkfi",
-                "stars": 1380,
+                "stars": 1381,
                 "topics": [
                   "crypto",
                   "cryptocurrency",
@@ -307,7 +307,7 @@
                 "language": "TeX",
                 "license": "MIT",
                 "last_commit": "2026-10-21T20:23:50Z",
-                "open_issues": 338,
+                "open_issues": 339,
                 "owner": "zcash",
                 "repo": "zips",
                 "stars": 309,
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T17:42:14.059Z",
+    "last_updated": "2026-10-26T20:00:40.018Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of privacy on blockchains resources",
@@ -396,7 +396,7 @@
       "open_issues": 7,
       "owner": "Mikerah",
       "repo": "awesome-privacy-on-blockchains",
-      "stars": 289,
+      "stars": 290,
       "topics": [
         "anonymity",
         "awesome-list",
