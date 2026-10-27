@@ -306,11 +306,11 @@
                 "id": 47279130,
                 "language": "TeX",
                 "license": "MIT",
-                "last_commit": "2026-10-21T20:23:50Z",
-                "open_issues": 339,
+                "last_commit": "2026-10-27T02:38:45Z",
+                "open_issues": 342,
                 "owner": "zcash",
                 "repo": "zips",
-                "stars": 309,
+                "stars": 310,
                 "topics": [
                   "cryptocurrency",
                   "cryptography",
@@ -334,7 +334,7 @@
         {
           "node_type": "item",
           "title": "Awesome Zero-Knowledge Proofs",
-          "description": "matter-labs/awesome-zero-knowledge-proofs",
+          "description": "matter-labs-archive/awesome-zero-knowledge-proofs",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -345,9 +345,9 @@
             "license": "NOASSERTION",
             "last_commit": "2026-10-21T16:33:02Z",
             "open_issues": 0,
-            "owner": "matter-labs",
+            "owner": "matter-labs-archive",
             "repo": "awesome-zero-knowledge-proofs",
-            "stars": 5849,
+            "stars": 5850,
             "topics": [
               "explaining-snarks",
               "knowledge-proofs",
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T20:00:40.018Z",
+    "last_updated": "2026-10-27T19:29:08.801Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of privacy on blockchains resources",
