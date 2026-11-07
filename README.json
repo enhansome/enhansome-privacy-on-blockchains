@@ -64,7 +64,7 @@
                 "open_issues": 54,
                 "owner": "darkrenaissance",
                 "repo": "darkfi",
-                "stars": 1381,
+                "stars": 1382,
                 "topics": [
                   "crypto",
                   "cryptocurrency",
@@ -306,8 +306,8 @@
                 "id": 47279130,
                 "language": "TeX",
                 "license": "MIT",
-                "last_commit": "2026-11-06T15:49:05Z",
-                "open_issues": 350,
+                "last_commit": "2026-11-07T06:48:28Z",
+                "open_issues": 352,
                 "owner": "zcash",
                 "repo": "zips",
                 "stars": 312,
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:28:33.006Z",
+    "last_updated": "2026-11-07T18:52:40.723Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of privacy on blockchains resources",
