@@ -103,7 +103,7 @@ This is a combination of papers and articles that cover various aspects of block
 ## Privacy Preserving Light Client Designs
 
 * [ZLiTE](https://eprint.iacr.org/2018/1024.pdf)
-* [Neutrino](https://github.com/lightninglabs/neutrino) ⭐ 977 | 🐛 45 | 🌐 Go | 📅 2026-11-05
+* [Neutrino](https://github.com/lightninglabs/neutrino) ⭐ 978 | 🐛 45 | 🌐 Go | 📅 2026-11-05
 * [BiTE](https://www.usenix.org/system/files/sec19fall_matetic_prepub.pdf)
 
 ## Economics of Privacy Blockchains
@@ -166,7 +166,7 @@ This is a combination of papers and articles that cover various aspects of block
 
 ### [Zcash](https://z.cash/)
 
-* [Zcash Protocol Specification](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 312 | 🐛 352 | 🌐 TeX | 📅 2026-11-07
+* [Zcash Protocol Specification](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 312 | 🐛 352 | 🌐 TeX | 📅 2026-11-08
 
 ### [Dash](https://www.dash.org/)
 
@@ -212,4 +212,4 @@ This is a combination of papers and articles that cover various aspects of block
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
