@@ -307,7 +307,7 @@
                 "language": "TeX",
                 "license": "MIT",
                 "last_commit": "2026-11-08T04:01:58Z",
-                "open_issues": 352,
+                "open_issues": 359,
                 "owner": "zcash",
                 "repo": "zips",
                 "stars": 312,
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T18:53:25.433Z",
+    "last_updated": "2026-11-09T23:28:43.986Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of privacy on blockchains resources",
