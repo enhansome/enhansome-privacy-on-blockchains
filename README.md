@@ -166,7 +166,7 @@ This is a combination of papers and articles that cover various aspects of block
 
 ### [Zcash](https://z.cash/)
 
-* [Zcash Protocol Specification](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 314 | 🐛 359 | 🌐 TeX | 📅 2026-11-11
+* [Zcash Protocol Specification](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 315 | 🐛 359 | 🌐 TeX | 📅 2026-11-11
 
 ### [Dash](https://www.dash.org/)
 
@@ -212,4 +212,4 @@ This is a combination of papers and articles that cover various aspects of block
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
