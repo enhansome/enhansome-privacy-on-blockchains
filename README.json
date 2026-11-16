@@ -64,7 +64,7 @@
                 "open_issues": 54,
                 "owner": "darkrenaissance",
                 "repo": "darkfi",
-                "stars": 1385,
+                "stars": 1386,
                 "topics": [
                   "crypto",
                   "cryptocurrency",
@@ -306,8 +306,8 @@
                 "id": 47279130,
                 "language": "TeX",
                 "license": "MIT",
-                "last_commit": "2026-11-14T17:34:17Z",
-                "open_issues": 362,
+                "last_commit": "2026-11-16T16:35:53Z",
+                "open_issues": 363,
                 "owner": "zcash",
                 "repo": "zips",
                 "stars": 315,
@@ -347,7 +347,7 @@
             "open_issues": 0,
             "owner": "matter-labs-archive",
             "repo": "awesome-zero-knowledge-proofs",
-            "stars": 5850,
+            "stars": 5849,
             "topics": [
               "explaining-snarks",
               "knowledge-proofs",
@@ -374,7 +374,7 @@
             "open_issues": 9,
             "owner": "ventali",
             "repo": "awesome-zk",
-            "stars": 1596,
+            "stars": 1597,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:07.628Z"
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:50:32.767Z",
+    "last_updated": "2026-11-16T23:26:01.095Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of privacy on blockchains resources",
@@ -393,7 +393,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2025-11-04T17:37:06Z",
-      "open_issues": 7,
+      "open_issues": 8,
       "owner": "Mikerah",
       "repo": "awesome-privacy-on-blockchains",
       "stars": 290,
