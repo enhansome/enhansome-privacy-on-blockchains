@@ -64,7 +64,7 @@
                 "open_issues": 54,
                 "owner": "darkrenaissance",
                 "repo": "darkfi",
-                "stars": 1387,
+                "stars": 1388,
                 "topics": [
                   "crypto",
                   "cryptocurrency",
@@ -347,7 +347,7 @@
             "open_issues": 0,
             "owner": "matter-labs-archive",
             "repo": "awesome-zero-knowledge-proofs",
-            "stars": 5848,
+            "stars": 5849,
             "topics": [
               "explaining-snarks",
               "knowledge-proofs",
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:35:41.277Z",
+    "last_updated": "2026-11-22T20:46:04.555Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of privacy on blockchains resources",
