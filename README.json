@@ -307,7 +307,7 @@
                 "language": "TeX",
                 "license": "MIT",
                 "last_commit": "2026-11-25T19:21:58Z",
-                "open_issues": 366,
+                "open_issues": 369,
                 "owner": "zcash",
                 "repo": "zips",
                 "stars": 315,
@@ -347,7 +347,7 @@
             "open_issues": 0,
             "owner": "matter-labs-archive",
             "repo": "awesome-zero-knowledge-proofs",
-            "stars": 5847,
+            "stars": 5846,
             "topics": [
               "explaining-snarks",
               "knowledge-proofs",
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T23:05:32.954Z",
+    "last_updated": "2026-11-27T22:46:40.544Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of privacy on blockchains resources",
